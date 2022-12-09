@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old abandoned classroom
+* source:	https://sketchfab.com/3d-models/old-abandoned-classroom-9651b7c7d1e546d6b279231d6cf3d1ca
+* author:	Rixael (https://sketchfab.com/rixael)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old abandoned classroom" (https://sketchfab.com/3d-models/old-abandoned-classroom-9651b7c7d1e546d6b279231d6cf3d1ca) by Rixael (https://sketchfab.com/rixael) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

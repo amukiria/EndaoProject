@@ -1,0 +1,11 @@
+Model Information:
+* title:	Slum Hut
+* source:	https://sketchfab.com/3d-models/slum-hut-e785961cdcdc4bae9f2836b356fd2d29
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Slum Hut" (https://sketchfab.com/3d-models/slum-hut-e785961cdcdc4bae9f2836b356fd2d29) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
