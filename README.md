@@ -1,2 +1,2 @@
-# Endau-VR-Project Pitch
- Endau Project Pitch Game Experience for the Unity for Humanity Creator Program
+# Ng'ambo Resilience Project Pitch
+ Project Pitch - The Ng'ambo Resilience Project is a VR application aimed at showing the effects of climate change on the young girls living near Lake Baringo.
